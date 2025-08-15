@@ -15,8 +15,8 @@ export const profile = {
     "With a background in software engineering and a passion for human-computer interaction (HCI), I aim to create user-centered technologies that support well-being in everyday life. I'm particularly interested in how thoughtful design can make digital systems more empathetic and supportive."
   ],
   social: {
-    email: 'jeonghyun.kim@kaist.ac.kr',
-    github: 'https://github.com/Jeonghyun109',
+    email: 'qisarah@grinnell.edu',
+    github: 'https://github.com/sarahqii',
     linkedin: 'https://linkedin.com/in/jeonghyun109',
     scholar: 'https://scholar.google.com/citations?user=yourid&user=U4BoWB4AAAAJ'
   },

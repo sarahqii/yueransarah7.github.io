@@ -154,7 +154,7 @@ const TabbedSection = ({ activeTab, setActiveTab }: { activeTab: TabType, setAct
 
 const Footer = () => (
   <footer className="mt-12 md:mt-16 py-4 md:py-6 bg-white border-t border-gray-200 text-center text-gray-500 text-xs md:text-sm">
-    Copyright © 2025 Jeonghyun Kim. All rights reserved.
+    Copyright © 2025 Yueran (Sarah) Qi. All rights reserved.
   </footer>
 );
 
