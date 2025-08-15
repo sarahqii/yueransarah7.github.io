@@ -6,7 +6,7 @@ export interface AwardItem {
 }
 
 export const awards: AwardItem[] = [
-  {
+  /*{
     title: "Graduate Research Fellowship for Master's Student",
     description: "A national fellowship awarded by the NRF to foster Master's students' early research capabilities and academic excellence",
     issuer: "NRF",
@@ -35,5 +35,5 @@ export const awards: AwardItem[] = [
     description: "A selective KAIST program supporting top undergraduates with academic excellence and leadership potential to become global science and technology leaders",
     issuer: "KAIST",
     date: "2018 - 2023",
-  },
+  },*/
 ]; 
