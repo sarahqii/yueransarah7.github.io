@@ -1,9 +1,9 @@
 export const profile = {
-  name: '김정현',
-  englishName: 'Jeonghyun Kim',
-  degree: 'M.S. Student',
-  title: 'HCI & Software Researcher',
-  address: 'Daejeon, Republic of Korea',
+  name: '祁月然',
+  englishName: 'Yueran (Sarah) Qi',
+  degree: 'B.A. Student',
+  title: 'Student Researcher',
+  address: 'Grinnell, IA, USA',
   about: [
     "Hello! I'm Jeonghyun Kim, a Master's student at the Interactive Computing Lab at KAIST, advised by Professor Uichin Lee. My research lies at the intersection of human-computer interaction (HCI) and digital well-being, with a focus on designing stress management systems that foster self-awareness.",
     "Currently, I'm working on a research project that explores how we can help people manage stress more effectively. My work involves creating systems that promote self-awareness by supporting both self-reflection and timely intervention, using diverse everyday data such as wearable sensing and mobile usage patterns.",
