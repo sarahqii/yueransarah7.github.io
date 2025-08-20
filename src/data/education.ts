@@ -21,7 +21,7 @@ export const education: EducationItem[] = [
   {
     school: 'Grinnell College',
     degree: 'B.A. in Computer Science, with a concentration in Statistics',
-    location: 'Grinnell, IA, USA',
+    location: 'Grinnell, Iowa, United States',
     period: '2023.08 – 2027.05',
   },
 ]; 
