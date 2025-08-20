@@ -17,8 +17,8 @@ export const profile = {
   social: {
     email: 'qisarah@grinnell.edu',
     github: 'https://github.com/sarahqii',
-    linkedin: 'https://linkedin.com/in/jeonghyun109',
-    scholar: 'https://scholar.google.com/citations?user=yourid&user=U4BoWB4AAAAJ'
+    linkedin: 'https://www.linkedin.com/in/yueran-sarah-qi-05a4602a3/',
+    //scholar: 'https://scholar.google.com/citations?user=yourid&user=U4BoWB4AAAAJ'
   },
   researchInterests: {
     description: "My research focuses on designing and evaluating interactive systems that empower people in their daily lives, with a special interest in mental health and personalized computing.",
