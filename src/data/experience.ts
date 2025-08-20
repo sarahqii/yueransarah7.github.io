@@ -39,17 +39,17 @@ export const experience: ExperienceItem[] = [
     advisor: React.createElement(React.Fragment, null, 'Advisor: Prof.Geehyuk Lee, ', React.createElement('span', { className: 'italic' }, 'KAIST School of Computing')),
   },
   {
-    title: 'ReDWit, Development Team',
-    position: 'CUop Internship',
-    location: 'Daejeon, Korea',
-    period: '2022.09 - 2022.12',
+    title: 'Grinnell College ELBICA Lab',
+    position: 'Student Researcher',
+    location: 'Grinnell, Iowa, United States',
+    period: '2024.05 - 2024.12',
     bullets: [
       'Developed an in-house attendance management web service',
       'Redesigned and improved a Slack bot',
       'Implemented update features and fixed bugs for the electronic lab notebook service "GOONO"',
     ],
   },
-  {
+  /*{
     title: 'ReDWit, Development Team',
     position: 'Internship',
     location: 'Daejeon, Korea',
@@ -58,5 +58,5 @@ export const experience: ExperienceItem[] = [
       'Contributed to the GOONO 3.0 update, an electronic lab notebook service',
       'Integrated React Query into the project',
     ],
-  },
+  },*/
 ]; 
